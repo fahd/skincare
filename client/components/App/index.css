@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: -apple-system, "Helvetica Neue", BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* height: 100vh; */
+  background: #f3f3f3;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "Fakt Pro Light";
+  src: url("/build/assets/fonts/FaktPro-Light.ttf");
+}
+
+@font-face {
+  font-family: "Fakt Pro Blond";
+  src: url("/build/assets/fonts/FaktPro-Blond.ttf");
+}
+
+@font-face {
+  font-family: "Fakt Pro Normal";
+  src: url("/build/assets/fonts/FaktPro-Normal.ttf");
+}
+
+@font-face {
+  font-family: "Fakt Pro SemiBold";
+  src: url("/build/assets/fonts/FaktPro-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Fakt Pro Black";
+  src: url("/build/assets/fonts/FaktPro-Black.ttf");
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes flickerAnimation {
+  0%   { opacity:1; }
+  50%  { opacity:0.5; }
+  100% { opacity:1; }
+}
+@-o-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0.5; }
+  100% { opacity:1; }
+}
+@-moz-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0.5; }
+  100% { opacity:1; }
+}
+@-webkit-keyframes flickerAnimation{
+  0%   { opacity:1; }
+  50%  { opacity:0.5; }
+  100% { opacity:1; }
+}

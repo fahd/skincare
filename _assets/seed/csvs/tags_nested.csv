@@ -1,0 +1,109 @@
+"id", "parentId", tagtype",
+
+// Skin Care
+1, 1, Lip Care
+2, 1, Facial Rollers
+3, 1, Face Wash
+4, 1, Moisturizer
+5, 1, Night Cream,
+6, 1, Cleanser
+7, 1, Exfoliator
+8, 1, Acne & Blemish,
+9, 1, Dry Skin,
+10, 1, Combination Skin,
+11, 1, Oily Skin,
+12, 1, Korean Skin Care,
+13, 1, Toner
+
+// Face
+14, 4, Facial Peels
+15, 4, Face Mist
+16, 4, Face Oil
+17, 4, Face Masks
+18, 4, Facial Spray
+
+// Bath & Body
+19, 5, Body Scrubs & Exfoliants
+20, 5, Body Lotions & Creams
+21, 5, Hand & Foot Care
+22, 5, Manicure & Pedicure
+23, 5, Deodorant
+24, 5, Nails
+25, 5, Aromatherapy
+
+//Hair
+26, 6, Hair Removal,
+27, 6, Hair Loss
+28, 6, Hair Treatment
+29, 6, Hair Color
+30, 6, Styling
+
+//Makeup
+31, 7, Foundation,
+32, 7, Bronzer,
+33, 7, Concealer,
+34, 7, Blush
+35, 7, Contouring
+36, 7, Face Powder
+37, 7, Face Primer
+38, 7, Highlighter
+39, 7, Makeup Remover
+
+//Eye Makeup
+40, 8, Eyebrows
+41, 8, Eyelashes
+42, 8, Eyeliner
+43, 8, Eyeshadow
+44, 8, Mascara
+
+// Eye Treatment
+45, 9, Eye Masks
+46, 9, Retinol
+47, 9, Eye Serums
+
+// Lips
+48, 10, Lip Gloss
+49, 10, Lip Care
+50, 10, Lipstick
+
+// Nails
+51, 11, Removers
+52, 11, Nail Treatment
+53, 11, Nail Polish
+54, 11, Top & Base Coats
+
+// Fragrance
+55, 12, Men's Fragrance,
+56, 12, Women's Fragrance,
+57, 12, Cologne,
+58, 12, Perfume,
+
+// Serums
+59, 14, Eye Serums
+
+//Shower
+60, 16, Shampoo & Conditioner
+61, 16, Shower Gel & Body Wash
+
+//Suncare
+62, 17, Self-Tanning
+63, 17, Sunscreen,
+
+// Men
+64, 19, Beard,
+65, 19, Men's Shaving
+66, 19, Hair Styling
+
+// Accessories
+67, 21, Tools & Brushes
+68, 21, Makeup Accessories
+
+
+
+
+
+
+
+
+
+

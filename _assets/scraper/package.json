@@ -1,0 +1,17 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "s": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@supercharge/promise-pool": "^1.6.0",
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parser": "^2.3.3",
+    "json2csv": "^5.0.5",
+    "nightmare": "^3.0.2"
+  }
+}

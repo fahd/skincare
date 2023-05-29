@@ -1,0 +1,7 @@
+node_modules/
+build/*.js
+build/index.html
+logfile
+.DS_Store
+*.log
+.env

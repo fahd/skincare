@@ -1,0 +1,22 @@
+id,tagtype,isAction
+1, Skin Care,TRUE
+2, Lotions & Creams,TRUE
+3, Anti Aging,TRUE
+4, Face,TRUE
+5, Bath & Body,TRUE
+6, Hair,TRUE
+7, Makeup,TRUE
+8, Eye Makeup,TRUE
+9, Eye Treatment,TRUE
+10, Lips,TRUE
+11, Nails,TRUE
+12, Fragrance,TRUE
+13, Hydration,TRUE
+14, Serum,TRUE
+15, Shaving,TRUE
+16, Shower,TRUE
+17, Suncare,TRUE
+18, Oral Care,TRUE
+19, Men,FALSE
+20, Supplement,TRUE
+21, Accessories,FALSE
